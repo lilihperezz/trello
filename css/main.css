@@ -1,0 +1,46 @@
+
+::-webkit-input-placeholder { color: white; font-weight :bold;}
+body{
+	background-color: #A9D0F5;
+}
+#text{
+	background-color: #00AECC;
+	padding: 1%;
+	border-radius:8px;	
+	display: block;
+	margin-bottom: 4px;
+	color: white;
+	width: 16%;
+}
+
+#text:hover{
+	background-color: #086A87;
+}
+#list{
+	background-color: #00AECC;
+	padding: 1%;
+	border-radius:8px;	
+	display: block;
+	margin-bottom: 4px;
+	 color: white;
+	
+}
+#calcular{
+	
+	background-color: #56A540;
+	padding: 8px 13px;
+	border-radius:5px;
+	border:none;
+	border-bottom: 1px solid #088A08 ;
+	color:white;
+	font-weight :bold;
+	font-size: 15px;
+}
+
+#formulario{
+	display: none;
+}
+
+a{
+	font-size: 18px;
+}
